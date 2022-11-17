@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b16ddbf5-e30b-4efc-97c7-327d4bc1c0a7" name="crcfe02.crc.nd.edu">
+        <fileTransfer rootFolder="/afs/crc.nd.edu/user/g/gxu3" accessType="SFTP" host="crcfe02.crc.nd.edu" port="22" sshConfigId="09da0948-4696-4445-9220-0fe81e196fbb" sshConfig="gxu3@crcfe02.crc.nd.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
