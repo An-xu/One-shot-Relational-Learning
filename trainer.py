@@ -73,6 +73,7 @@ class Trainer(object):
         self.e1rel_e2 = defaultdict(list)
         self.e1rel_e2 = json.load(open(self.dataset + '/e1rel_e2.json'))
 
+
     def load_symbol2id(self):
 
         # if self.embed_model == 'RESCAL':
